@@ -7,4 +7,5 @@ Lista de Pull Request
 <h1> Edson </h1>
 <h1> Éric Luís De Santi Maciel </h1>
 <h1> Gabriel Kuhnen Basso </h1>
-gustavo budant
+<h1> Gustavo Budant </h1>
+<h1> Natanael </h1>
